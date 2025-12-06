@@ -7,6 +7,7 @@ The goal of this pipeline is to:
 - Clean and standardise sales, customer, product, and salesperson information
 - Handle missing values, inconsistent formats, and currency conversions
 - Generate cleaned datasets ready for analytics and dashboards
+  
 **Executive Summary**
 Luminatech Australia has demonstrated clear and predictable sales seasonality across 2021–2024, with strong mid-year and late-year demand cycles driving revenue, average order value (AOV), and order volume. Sales revenue peaks reached **$48.76M**, while troughs fell to **$26.24M**, consistently following structured procurement patterns from B2B customers. AOV movements aligned with these cycles, fluctuating between **$1,526** and **$2,169**, driven largely by shifts in product mix and promotional uptake. Order volume followed the same pattern with peaks of **3.87M** orders, confirming that revenue swings are primarily driven by changes in demand intensity rather than irregular market shocks.
 
