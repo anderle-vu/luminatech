@@ -26,6 +26,6 @@ Evaluation of Luminatech’s loyalty program shows that loyalty customers are th
 Overall, Luminatech’s performance is shaped by predictable seasonality, concentrated SKU-level revenue drivers, and a strong loyalty customer base. These insights provide a clear pathway for optimising demand planning, targeting high-potential products, enhancing pricing strategies, and strengthening loyalty engagement to support sustainable future growth.
 
 **Author**
-Prepared by: Ander Le
+Prepared by: Ander Le  
 Business Analyst NSW
 
