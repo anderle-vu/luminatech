@@ -1,6 +1,6 @@
 **Luminatech Data Cleaning**
 
-A reproducible Python-based data cleaning and preprocessing workflow for the Luminatech Australia Sales Analytics Project, used to transform raw B2B transactional datasets into analysis-ready files for Power BI, SQL modelling, and dashboard development.
+A reproducible Python-based data cleaning and preprocessing workflow for the Luminatech Australia Sales Analytics Project, used to transform raw B2B transactional datasets into analysis-ready files for SQL modelling, and dashboard development via Tableau.
 
 **Project Overview**
 
