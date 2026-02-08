@@ -24,3 +24,8 @@ Product-level performance:
 Evaluation of Luminatech’s loyalty program shows that loyalty customers are the core revenue engine, generating monthly peaks above **$140M**, compared with non-loyalty customers whose sales remained below **$50M**. Although AOV patterns for both groups track similarly, non-loyalty customers occasionally exceed loyalty AOV in select months, indicating targeted opportunities to convert high-value non-loyalty buyers into recurring loyalty members.
 
 Overall, Luminatech’s performance is shaped by predictable seasonality, concentrated SKU-level revenue drivers, and a strong loyalty customer base. These insights provide a clear pathway for optimising demand planning, targeting high-potential products, enhancing pricing strategies, and strengthening loyalty engagement to support sustainable future growth.
+
+**Author**
+Prepared by: Ander Le
+Business Analyst NSW
+
